@@ -1,1 +1,1 @@
-This repo was created during Git-It challenge.
+This text file was created during Git-It challenge.
